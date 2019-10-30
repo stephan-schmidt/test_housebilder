@@ -15,14 +15,6 @@ for (const [key, value] of Object.entries(liststorage)) {
 }
 
 
-
-
-
-var housholdList = document.querySelector(".household");
-
-
-
-
 // get Age value
 var inputAge = 0;
 var inputAgeEl = document.querySelector("input[name]");
